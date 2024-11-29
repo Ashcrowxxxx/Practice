@@ -2,7 +2,7 @@
 //  main.c
 //  comp
 //
-//  Created by 郑斯贻 on 2024-11-26.
+//  Created by Ruby on 2024-11-26.
 //
 
 #include <stdio.h>
